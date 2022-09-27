@@ -1,7 +1,7 @@
 <h1 align="center"> Hello! My name is Marina (she/her) 👋 </h1>
 
 <h3 align="center"> 
-  PhD student at the interface of bioinformatics and cancerbiology 👩🏼‍💻 
+  PhD student at the interface of bioinformatics and cancer biology 👩🏼‍💻 
   <p alighn="center"> endlessly fascinated about harnessing computational tools to address challenges in human health 🫀 </p>
   </h3>
 <p align="center"> 
