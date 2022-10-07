@@ -2,7 +2,7 @@
 
 <h3 align="center"> 
   PhD student at the interface of bioinformatics and cancer biology 👩🏼‍💻 
-  <p alighn="center"> endlessly fascinated about harnessing computational tools to address challenges in human health 🫀 </p>
+  <p alighn="center"> fascinated by the use of computational tools to address challenges in human health 🫀 </p>
   </h3>
 <p align="center"> 
   <a href="https://twitter.com/marina_michaud" target="blank"><img src="https://img.shields.io/twitter/follow/marina_michaud?logo=twitter&style=for-the-badge" alt="marina_michaud" /></a> 
