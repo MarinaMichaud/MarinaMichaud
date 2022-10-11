@@ -2,7 +2,7 @@
 
 <h3 align="center"> 
   PhD student at the interface of bioinformatics and cancer biology 👩🏼‍💻 
-  <p alighn="center"> fascinated by the use of computational tools to address challenges in human health 🫀 </p>
+  <p alighn="center"> Fascinated by the use of computational tools to address challenges in human health 🫀 </p>
   </h3>
   
 <br>
