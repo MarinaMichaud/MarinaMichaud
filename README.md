@@ -13,29 +13,14 @@
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) 
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A) 
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 </div>
-
-<br>
-
-<h3 align="center"> 👾 <b> &nbsp; </b> GitHub stats </h3>
-
-<p align="center"> 
-<a href="http://www.github.com/MarinaMichaud"><img src="https://github-readme-stats.vercel.app/api?username=MarinaMichaud&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MarinaMichaud's GitHub stats" /></a>
-</p>
-
-<p align="center"> 
-<a href="http://www.github.com/MarinaMichaud"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarinaMichaud&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
 
 <br>
 
